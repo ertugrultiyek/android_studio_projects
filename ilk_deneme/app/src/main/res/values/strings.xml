@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ilk_deneme</string>
+    <string name="hct">Hâcât</string>
+    <string name="liste_ad">Liste Adı</string>
+    <string name="listPassword">Liste Şifresi</string>
+    <string name="yeni_liste">Yeni Liste</string>
+    <string name="giris">Giriş</string>
+    <string name="liste_adi">Liste Adı</string>
+    <string name="paylas">PAYLAŞ</string>
+    <string name="listeden_cik">Çık</string>
+    <string name="ekle">EKLE</string>
+    <string name="htiyac_girin">İhtiyaç girin...</string>
+</resources>
